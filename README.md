@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Jose Niel Tolentin — aka Dev One (Dev_ONE)
+<p align="center">
+  <img src="https://scontent.fceb6-2.fna.fbcdn.net/v/t39.30808-6/480750938_1164602812063958_4637748667024469416_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEzNy5E8QMGL4kiGe5_B897y1TUFpzNv5DLVNQWnM2_kHOv-rAM19KqsLtL6mYsr77roo3Up5fEnl9cnlVgvd8A&_nc_ohc=s4YPh12xwBwQ7kNvwEkIqdn&_nc_oc=AdlJwio2UBMmXy0RIVxqQA7rlgH6O-_p4oxLywb2H8TIE2F5eX2CdKrrZhpNziUkkMM&_nc_zt=23&_nc_ht=scontent.fceb6-2.fna&_nc_gid=DvM2cSvdGDmXiMNeG8hcrw&oh=00_AfEegdSu8aACR1-YZGmpzez8e0dRsvmEP2qiJ-Zu9p2WfA&oe=67FF088F" width="200" height="200" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Jose Niel Tolentin — aka Dev One (Dev_ONE)</h1>
 
 🎯 A passionate and detail-oriented Full Stack Developer who lives and breathes clean, scalable code, seamless automation, and cutting-edge AI integration. Whether it's designing complex backend systems, building beautiful UIs, or integrating AI-powered workflows, I bring relentless curiosity and laser focus to every project.
 
