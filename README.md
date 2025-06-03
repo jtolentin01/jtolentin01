@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://scontent.fceb6-2.fna.fbcdn.net/v/t39.30808-6/480750938_1164602812063958_4637748667024469416_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEzNy5E8QMGL4kiGe5_B897y1TUFpzNv5DLVNQWnM2_kHOv-rAM19KqsLtL6mYsr77roo3Up5fEnl9cnlVgvd8A&_nc_ohc=s4YPh12xwBwQ7kNvwEkIqdn&_nc_oc=AdlJwio2UBMmXy0RIVxqQA7rlgH6O-_p4oxLywb2H8TIE2F5eX2CdKrrZhpNziUkkMM&_nc_zt=23&_nc_ht=scontent.fceb6-2.fna&_nc_gid=DvM2cSvdGDmXiMNeG8hcrw&oh=00_AfEegdSu8aACR1-YZGmpzez8e0dRsvmEP2qiJ-Zu9p2WfA&oe=67FF088F" width="200" height="200" style="border-radius: 50%;" />
+  <img src="https://scontent.fceb6-2.fna.fbcdn.net/v/t39.30808-6/480750938_1164602812063958_4637748667024469416_n.jpg?_nc_cat=101&_nc_cb=64d46a15-dccda127&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEzNy5E8QMGL4kiGe5_B897y1TUFpzNv5DLVNQWnM2_kHOv-rAM19KqsLtL6mYsr77roo3Up5fEnl9cnlVgvd8A&_nc_ohc=i-T0SDDH-icQ7kNvwESUpjS&_nc_oc=AdnXIVWRQc1U7yDRQQXYUTQDkfSKBDnjeZ_HsDch_-dwYJQmjAJ4Ynmw2Xjw7a_ZdGs&_nc_zt=23&_nc_ht=scontent.fceb6-2.fna&_nc_gid=H9T94SD2RBVkRZa7oUXNbw&oh=00_AfLwo1R4logKEsm3nYSyxhGgACqaKJ8FfQR2rpis5MpPIQ&oe=6844AFCF" width="200" height="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Jose Niel Tolentin — aka Dev One (Dev_ONE)</h1>
