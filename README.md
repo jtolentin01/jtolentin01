@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://scontent.fceb6-2.fna.fbcdn.net/v/t39.30808-6/480750938_1164602812063958_4637748667024469416_n.jpg?_nc_cat=101&_nc_cb=64d46a15-dccda127&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEzNy5E8QMGL4kiGe5_B897y1TUFpzNv5DLVNQWnM2_kHOv-rAM19KqsLtL6mYsr77roo3Up5fEnl9cnlVgvd8A&_nc_ohc=i-T0SDDH-icQ7kNvwESUpjS&_nc_oc=AdnXIVWRQc1U7yDRQQXYUTQDkfSKBDnjeZ_HsDch_-dwYJQmjAJ4Ynmw2Xjw7a_ZdGs&_nc_zt=23&_nc_ht=scontent.fceb6-2.fna&_nc_gid=H9T94SD2RBVkRZa7oUXNbw&oh=00_AfLwo1R4logKEsm3nYSyxhGgACqaKJ8FfQR2rpis5MpPIQ&oe=6844AFCF" width="200" height="200" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">Hi, I'm Jose Niel Tolentin — aka Dev One (Dev_ONE)</h1>
-
-🎯 A passionate and detail-oriented Full Stack Developer who lives and breathes clean, scalable code, seamless automation, and cutting-edge AI integration. Whether it's designing complex backend systems, building beautiful UIs, or integrating AI-powered workflows, I bring relentless curiosity and laser focus to every project.
+<h1 align="center">DEV_ONE_PH</h1>
 
 ---
 
@@ -74,39 +68,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
-## 👨‍💼 About Me
-
-I'm a **serious, focused, and detail-obsessed developer** who thrives on clarity and structure. I'm constantly learning and adapting to new trends, especially in **full stack development**, **automation**, and **AI integrations**. 
-
-I can confidently **build and manage entire applications end-to-end**, but I also love being part of a team where I can collaborate, learn, and contribute.
-
-With **strong project management skills**, I’m experienced in organizing features, issues, deadlines, tasks, and meetings—making sure things get done the right way, on time.
-
----
-
-## 🎧 Outside the Code
-
-When I’m not coding, you’ll probably find me:
-🎵 Producing music or remixing tracks  
-🎚️ Spinning as a DJ at events  
-🏀 Shooting hoops or playing badminton for fun
-
----
-
-## 🤝 Open to Work & Collaboration
-
-I'm currently open to:
-- 🌐 Freelance & Contract Projects  
-- 🏢 Corporate Opportunities  
-- 🤝 Collaborations & Team Projects
-
-📫 Reach me at:  
 **📧 joseniel.tolentin@gmail.com**  
 **📧 tolentin.joseniel@gmail.com**
 
----
-
-## 📌 Let’s Connect!
-
-Let's build something amazing — feel free to reach out for any opportunity or collaboration!
